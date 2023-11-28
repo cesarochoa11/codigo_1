@@ -1,0 +1,16 @@
+h1{
+    /* 1. propiedades */
+    font-family: Impact;
+}
+
+/* 2. selector de clases 
+-diferentes elementos SI pueden compartir las clases
+-un elemento puede tener varias clases y las propiedades se combinan*/
+.parrafo {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+.importante {
+    background-color: aqua;
+}
