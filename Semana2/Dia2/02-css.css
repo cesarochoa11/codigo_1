@@ -4,7 +4,7 @@ h1{
 }
 
 /* 2. selector de clases 
--diferentes elementos SI pueden compartir las clases
+-diferentes elementos SI pueden compartir las clases.
 -un elemento puede tener varias clases y las propiedades se combinan*/
 .parrafo {
     color: green;
@@ -13,4 +13,15 @@ h1{
 }
 .importante {
     background-color: aqua;
+    font-size: 26px;
 }
+
+/* 3. para el ID se usa # */
+#primero {
+    border: 2px solid black;
+    width: 50%;
+}
+
+/* 4. Para CSS son las CLASS.
+Para JS son los IDs */
+
